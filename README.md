@@ -111,3 +111,6 @@ console:
 Once you've verified you have the project working, continue configuring your
 environment to start work as described [in this wiki
 page](https://github.com/testdouble/contributing-tests/wiki/Environment-Setup#java)
+
+
+<!-- Security scan triggered at 2025-09-01 20:15:02 -->
